@@ -1,0 +1,19 @@
+{
+  "name": "21point",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miyahi/21point.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miyahi/21point/issues"
+  },
+  "homepage": "https://github.com/Miyahi/21point#readme"
+}
